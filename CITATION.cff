@@ -13,7 +13,7 @@ keywords:
 - COVID-19
 - Machine Learning
 - Artifical Intelligence
-license: Apache-2.0
+license: MIT
 message: If you use this software, please cite it as below.
 repository-code: https://github.com/fairdataihub/testrepo
 title: testrepo
