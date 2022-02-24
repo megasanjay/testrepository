@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with Fair Share.
+# Visit https://fairdataihub.org/sodaforcovid to learn more!
+
+abstract: test repo description
+authors:
+- affiliation: Fair Data Innovations Hub
+  email: ssoundarajan@calmi2.org
+  family-names: Soundarajan
+  given-names: Sanjay
+cff-version: 1.2.0
+date-released: '2022-02-24T07:32:27.719Z'
+keywords:
+- COVID-19
+- Machine Learning
+- Artifical Intelligence
+license: Apache-2.0
+message: If you use this software, please cite it as below.
+repository-code: https://github.com/fairdataihub/testrepo
+title: testrepo
+type: software
