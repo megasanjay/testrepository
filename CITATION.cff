@@ -9,10 +9,6 @@ authors:
   given-names: Sanjay
 cff-version: 1.2.0
 date-released: '2022-02-24T07:32:27.719Z'
-identifiers:
-- description: DOI for this software's record on Zenodo
-  type: doi
-  value: 10.0166/FK2.stagefigshare.7898174
 keywords:
 - COVID-19
 - Machine Learning
